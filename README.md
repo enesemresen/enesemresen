@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **enesemresen/enesemresen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#Welcome 👋
+
+#Enes Emre ŞEN's GitHub
+
+🔭 I’m currently working on Python & C++
+🌱 I’m currently learning Embedded Software
