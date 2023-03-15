@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 # Enes Emre ŞEN's GitHub
 
-### 🔭 I’m currently working on Python & C++
-### 🌱 I’m currently learning Embedded Software
+- 🔭 I’m currently working on Python & C++
+- 🌱 I’m currently learning Embedded Software
 
