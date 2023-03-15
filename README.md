@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+# Welcome 👋
 
-#Welcome 👋
-
-#Enes Emre ŞEN's GitHub
+# Enes Emre ŞEN's GitHub
 
 🔭 I’m currently working on Python & C++
 🌱 I’m currently learning Embedded Software
--->
+
