@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 # Welcome 👋
 
 # Enes Emre ŞEN's GitHub
@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Python & C++
 - 🌱 I’m currently learning Embedded Software
 
+## 📫 How to reach me:
+-->
